@@ -236,10 +236,4 @@ https://github.com/Mikaeil297/High-Performance-Async-Stress-Test-Tool/issues
 
 ---
 
-**Happy Testing! 🚀**
-
-*Remember: With great power comes great responsibility. Use this tool wisely and ethically.*
-
----
-
 🌈 **Access Confirmed!** - This file has been successfully updated by Mikaeil297
